@@ -1,0 +1,177 @@
+html,body { margin:0; height:100%;}
+
+.bg
+{
+    background-image: url("../img/1erepage.jpg");
+    height: 100%;
+    background-position: center;
+}
+.gris{
+    background-color: gray;
+    height: 100%;
+}
+.padding15{
+    padding-top: 15%;
+}
+.padding20{
+    padding-top: 20%;
+}
+.paddingdown15{
+    padding-bottom: 15%;
+}
+.paddingdown50{
+    padding-bottom: 50%;
+}
+.paddingdown5{
+    padding-bottom: 5%;
+}
+.padding2{
+    padding-top: 2%;
+}
+.padding5{
+    padding-top: 5%;
+}
+.padding50{
+    padding-top: 50%;
+}
+.paddingdown2{
+    padding-bottom: 2%;
+}
+.navbar.navbar-1 .navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+}
+@media only screen and (max-width: 480px){
+    .bg{
+        background-image: url("../img/iphone.jpg");
+        height: 100%;
+        background-position: center;
+    }
+}
+@media only screen and ( min-width: 768px) and (max-width: 1024px){
+    .bg{
+        background-image: url("../img/ipad.jpg");
+        height: 100%;
+        background-position: center;
+    }
+}
+.parallax1{
+
+    background-image: url("../img/paralax1.jpg");
+
+
+    height: 100%;
+
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.parallax2{
+    background-image: url("../img/paralax2.jpg");
+
+    height: 100%;
+
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.zero{
+    padding: 0%;
+}
+.bg2
+{
+    background-image: url("../img/formulaire.jpg");
+    height: 100%;
+    opacity: 0.7;
+    background-position: center;
+}
+.op{
+    opacity: 0.7;
+}
+.parallax11 {
+    /* L’image du Parallax */
+    background-image: url("../img/abc.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaxx {
+    /* L’image du Parallax */
+    background-image: url("../img/abc1.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaxxx {
+    /* L’image du Parallax */
+    background-image: url("../img/abc2.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imglol{
+    opacity: 0.7;
+}
+.row80{
+    height: 80%;
+}
+.row20{
+    height: 20%;
+}
+.gris{
+    background-color: gray;
+    height: 100%;
+}
+.jaune{
+    background-color: yellow;
+    height: 100%;
+}
+.padding110{
+    padding-top: 15%;
+}
+.padding250{
+    padding-top: 20%;
+}
+.paddingb{
+    padding-bottom: 15%;
+}
+.paddingbb{
+    padding-bottom: 5%;
+}
+.txtwhite{
+    text-decoration-color: white;
+}
+.noir{
+    background-color: black;
+}
+.rouge{
+    background-color: red;
+}
+.padding1100{
+    padding-top: 5%;
+}
